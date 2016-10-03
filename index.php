@@ -6,7 +6,11 @@
         <p>
             <?php
                 echo "Hello World";
-                echo "Hello," . " " . "world" . "!";
+            ?>
+        </p>
+        <p>
+            <?php
+                echo  "Hello," . " " . "world" . "!";
                 echo 5 * 7;
             ?>
         </p>
