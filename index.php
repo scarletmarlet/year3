@@ -39,7 +39,6 @@
             print "Whoo are you?";
         }
         ?>
-
-
+    
     </body>
 </html>
